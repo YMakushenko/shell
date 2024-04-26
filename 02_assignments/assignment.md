@@ -1,4 +1,4 @@
-## Submission Information
+[Script.txt](https://github.com/YMakushenko/shell/files/15125625/Script.txt)## Submission Information
 
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
@@ -35,6 +35,12 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 ```
 Your answer here...
+Paper Rings
+10
+Meets
+and
+Lucky
+the
 
 
 
@@ -48,3 +54,4 @@ Your answer here...
 
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
+[Script.txt](https://github.com/YMakushenko/shell/files/15125627/Script.txt)
